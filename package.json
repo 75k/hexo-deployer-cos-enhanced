@@ -1,0 +1,34 @@
+{
+  "name": "hexo-deployer-cos-enhanced",
+  "version": "0.0.2",
+  "description": "Tencent Cloud Object Storage (COS) Enhanced version plugin of Hexo",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/75k/hexo-deployer-cos-enhanced.git"
+  },
+  "keywords": [
+    "hexo",
+    "cdn",
+    "deploy",
+    "upload",
+    "cos"
+  ],
+  "author": "LaoGuo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/75k/hexo-deployer-cos-enhanced/issues"
+  },
+  "homepage": "https://github.com/75k/hexo-deployer-cos-enhanced#readme",
+  "dependencies": {
+    "q": "^2.0.3",
+    "chalk": "^2.3.0",
+    "events": "^3.0.0",
+    "hexo-fs": "^0.2.2",
+    "cos-nodejs-sdk-v5": "^2.4.3",
+    "qcloud-cdn-node-sdk": "^1.0.0"
+  }
+}
