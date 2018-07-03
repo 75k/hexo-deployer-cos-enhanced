@@ -13,7 +13,7 @@ Hexo静态博客部署到腾讯云对象存储服务的插件，部署完成后�
 ## 安装方法
 
 ```
-npm install git+https://github.com/75k/hexo-deployer-cos-enhanced.git --save
+npm install hexo-deployer-cos-enhanced --save
 ```
 
 ## 配置
